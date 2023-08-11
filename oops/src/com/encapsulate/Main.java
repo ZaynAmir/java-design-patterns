@@ -1,4 +1,4 @@
-package com.zayn;
+package com.encapsulate;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package com.zayn;
+package com.encapsulate;
 // Encapsulation
 public class Account {
     private float balance;

@@ -1,4 +1,4 @@
-package com.zayn;
+package com.encapsulate;
 
 public class TaxCalculator2022 implements TaxCalculator{
     @Override
